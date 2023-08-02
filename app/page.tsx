@@ -38,7 +38,7 @@ export default function Home() {
           href="https://nextjs.org/docs"
           className="font-medium underline underline-offset-4 hover:text-black transition-colors"
         >
-          Next.js App Router
+          Next.js App Router But I really like my pages! 
         </Link>
         .
       </p>
